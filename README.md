@@ -8,8 +8,8 @@ My codes are for undergraduate  research
 // Distance, Light, Motion, Objects, Reflectivitiy. 
 
 // These codes are split in individual circuits are combination of circuits. 
-// Named accordignly to what they do and what sensors they use each code is for the unique or combination of sensors
-// This will allow sensors to reocord seperate data and compile that data to be used to produce a sinlge output.
+// Named accordingly to what they do and what sensors they use each code is for the unique or combination of sensors
+// This will allow sensors to record seperate data and compile that data to be used to produce a sinlge output.
 
 // The application of thses sensors are for an autonomous self diriving car project.
 // These codes were to be uploaded to the arduinos attached to circuit on the vehicle (Power wheels)
