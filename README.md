@@ -4,7 +4,7 @@ My codes are for undergraduate  research
 // These codes are for an Ardunio basded application using a variety of sensors and circuits such as 
 // RGB, Ultrasonic, Object, Line, and much more. 
 
-//These codes use a varity of libraries used to determine and calcualte various forms of data such as: 
+//These codes use a varity of libraries used to determine and calculate various forms of data such as: 
 // Distance, Light, Motion, Objects, Reflectivitiy. 
 
 // These codes are split in individual circuits are combination of circuits. 
