@@ -1,5 +1,5 @@
 # Undergraduate-Research
-My codes for undergraduate  research 
+My codes are for undergraduate  research 
 
 // These codes are for an Ardunio basded application using a variety of sensors and circuits such as 
 // RGB, Ultrasonic, Object, Line, and much more. 
