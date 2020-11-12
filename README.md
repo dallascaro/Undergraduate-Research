@@ -13,4 +13,4 @@ My codes are for undergraduate  research
 
 // The application of these sensors are for an autonomous self driving car project.
 // These codes were to be uploaded to the arduinos attached to the circuit on the vehicle (Power wheels)
-// That wiuld then allow the vehicle to move dependent upon various forms of data inputed. 
+// That would then allow the vehicle to move dependent upon various forms of data inputed. 
